@@ -55,8 +55,11 @@ h2, h1{
 .Artigo h2{
     padding: 35px 0px 15px;
 }
+.Artigo figure{
+    padding-bottom: 20px;
+}
 .Artigo p{
-    padding-top: 25px;
+    padding-top: 10px;
     text-align: justify;
     line-height: 1.5;
 }
